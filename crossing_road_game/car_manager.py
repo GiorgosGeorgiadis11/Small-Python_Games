@@ -28,3 +28,5 @@ class CarManager():
 
     def level_up(self):
         self.x_move += MOVE_INCREMENT
+
+        
